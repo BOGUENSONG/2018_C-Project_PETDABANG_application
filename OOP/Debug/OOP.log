@@ -1,0 +1,8 @@
+﻿  Login.cpp
+c:\users\master\source\repos\oop\oop\server.h(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\oop\oop\server.h(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\oop\oop\server.h(140): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\oop\oop\server.h(150): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\master\source\repos\oop\oop\server.h(150): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\users\master\source\repos\oop\oop\find.h(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\oop\oop\find.h(32): error C3867: 'OOP::infor::getBreed': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
